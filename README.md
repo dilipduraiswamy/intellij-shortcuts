@@ -11,7 +11,7 @@
 - Usage ( option + f7)
 - delete a line ( cmd + y )
 
-### opening windows shortcuts
+### opening windows shortcuts 
 - project view ( cmd + 1 )
 - bookmarks view ( cmd + 2 )
 - structure view ( cmd + 7 ) 
