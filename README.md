@@ -46,7 +46,6 @@
 - options of git ( ctrl + v )
 - revert ( option + cmd + z )
 - push ( ctrl + cmd + k )
-- 
 
 
 
